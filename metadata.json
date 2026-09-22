@@ -1,0 +1,6 @@
+{
+  "name": "Zaugg Lisa | Rechtsanwältin Zürich",
+  "description": "Independent legal practice in Zürich. Individual legal counsel, civil representation, contract advisory, and focused advocacy at Gartenhofstrasse 15, 8004 Zürich.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
